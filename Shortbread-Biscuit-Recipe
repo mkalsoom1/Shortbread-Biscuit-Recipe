@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+    <html>
+    
+        <head> 
+            <title>Shortbread Biscuit Recipe</title>
+        </head>
+    
+        <body>
+            <h1>Shortbread Biscuit Recipe</h1>
+            
+            <p> The easiest 3 step shortbread biscuit recipe. They're wonderfully <br> <b>crumbly</b> and delicious and will melt in your mouth.
+                Here is a step by step guide to create the best biscuits.
+            </p>
+            
+            <a href="https://www.youtube.com/watch?v=TtTYnTKEQN8" target="_blank"> A visual video tutorial</a>
+            
+            <br> <img src="Shortbread biscuit.jpg" alt="image of a shortbread" Width="20%">
+            
+            <div>
+            
+                <h3>Ingredients:</h3>
+        
+                <ul>
+                    <li>1 cup of unsalted butter (softened)</li>
+                    <li>1/2 cup sugar</li>
+                    <li>2 cups all purpose flour</li>
+                </ul>
+    
+                <h3>Instructions:</h3>
+                <ol>
+                    <li>Pre-heat your oven to 350c.</li>
+                    <li>Prepare two large baking sheets lined with parchment paper</li>
+                    <li>In a large bowl, cream together butter and sugar.</li>
+                    <li>Add flour and continue to mix until mixture forms a soft dough</li>
+                    <li>Form dough into a cohesive ball with your hands.</li>
+                    <li>Roll dough 1/4-inch thick on a surface dusted with flour.</li>
+                    <li>Use your desired cookie cutters and place onto baking sheets.
+                    <li>Bake for 16-18 minutes, or until cookies are pale golden brown. 
+                        Let cool on baking sheets.</li>
+                    <li>Finally, Enjoy!</li>
+                </ol>
+            </div>
+    
+        </body>    
+    
+    </html>
+
+
+
+
