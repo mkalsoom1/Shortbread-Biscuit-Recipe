@@ -4,6 +4,7 @@
     
         <head> 
             <title>Shortbread Biscuit Recipe</title>
+            <link href="styling.css" rel="stylesheet" type="text/css">
         </head>
     
         <body>
@@ -49,3 +50,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
